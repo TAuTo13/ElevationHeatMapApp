@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1703.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapConsoleLegend", "MapConsoleLegend\MapConsoleLegend.csproj", "{43E50BE8-A016-4147-BD00-5EC26A24E8D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43E50BE8-A016-4147-BD00-5EC26A24E8D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43E50BE8-A016-4147-BD00-5EC26A24E8D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43E50BE8-A016-4147-BD00-5EC26A24E8D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43E50BE8-A016-4147-BD00-5EC26A24E8D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB9F6ECE-4BF2-40D6-A879-345A7FB661C9}
+	EndGlobalSection
+EndGlobal
