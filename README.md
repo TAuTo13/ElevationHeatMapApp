@@ -32,7 +32,7 @@ ShapeFileを読み込み標高をヒートマップで出力するコマンド�
 }
 ```
 
-![HeatMap](/out/dem.png,"出力されるHeatMap画像")
+<img src=/out/dem.png title="出力されるHeatMap画像" width="500px" align="leftrighttopbottom"/>
 
 入力ShapeFileのBounding Box情報も出力できる．
 
@@ -51,8 +51,9 @@ dem2.png;Env[11563.354895687451 : 23133.76295806214, 92430.53718668334 : 101681.
 |-p –interp(optional)|画像の補完機能を有効にする場合は指定する．オプション機能であり，指定は必須ではない．|
 
 ## MapConsoleLegend
-凡例画像を出力する．
-![Legend](/out/Legend.png,"出力される凡例画像")
+<p>凡例画像を出力する．</p>
+<img src=/out/Legend.png title="出力される凡例画像" height="200px" align="topbottom"/>
+
 |Option|Description|
 | --- | --- |
 |-w —width (optional)|出力画像の幅．指定は任意であり，デフォルト(最小)値は120．|
