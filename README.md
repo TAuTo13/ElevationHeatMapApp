@@ -50,7 +50,7 @@ dem2.png;Env[11563.354895687451 : 23133.76295806214, 92430.53718668334 : 101681.
 |-o —output|出力画像とBoundingBox情報の出力ディレクトリパス．|
 |-p –interp(optional)|画像の補完機能を有効にする場合は指定する．オプション機能であり，指定は必須ではない．|
 
-# MapConsoleLegend
+## MapConsoleLegend
 凡例画像を出力する．
 ![Legend](/out/Legend.png,"出力される凡例画像")
 |Option|Description|
